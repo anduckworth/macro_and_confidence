@@ -38,7 +38,9 @@ Given the current confidence levels of the market what portfolio of three stocks
 
 ## Economic Analysis 
 
-
+1. Are there relationships with the SP500 and the GDP? 
+2. What relationships are there with the SP500 P/E with the overall economy? 
+3. Does over extention of the SP500 PE ratio indicate a potential correction? 
 
 
 
