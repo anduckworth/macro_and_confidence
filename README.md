@@ -8,7 +8,7 @@ We have obtained data for our findings using API's from Quandl, and Yahoo Financ
 The one year confidence index illustrates the percent of the population expecting an increase in the Dow in the coming year.
 
 
-##What is the general confidence level of the market?
+## What is the general confidence level of the market?
   1. The general consensis regarding stock market attitues is is positive. The mean individual confidence level at 76.5 and mean institutional at 77.62. Over time, the confidence of the stock market for both institutions and individuals has been in a downtrend. 
 
   2. Institutional Investors tend to remain more confident over time with a major crossover showing this reality in 2007. Prior to 2007, individual confidence was consistently greater. Our team speculates that this can potentially be due to individuals having a negative sentiment towards the market after the dot.com bubble and Great Recession. 
