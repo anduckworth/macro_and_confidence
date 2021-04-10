@@ -48,7 +48,7 @@ In recent years the volatility in macroeconomic indicators associated with marke
 
 1. Are there relationships with the SP500 and the GDP? Berkshire Hathaway has used Corporate Equities / GDP to analyze market conditions to make investment decisions. For the most part, this ratio has been telling in determining when the market is "overvalued." In our analysis, our group had used the SP500 / GDP to make a similar analysis regarding current market condidions. We believe the SP500 is the most representitive indicator os the United States market as a whole. We have currently surpassed levels that we have seen during the Dot.com bubble and Great Recession. This coupled with low institutional confidence should give a negative sentiment indicator for the future. 
 
-![SP500 Divided by GDP](/images/newplot(5).png)
+![SP500 Divided by GDP](/images/newplot (5).png)
 
 2. What relationships are there with the SP500 P/E with the overall economy? Given our analysis, we have seen spikes in the SP500 P/E ratio in 2000, and 2008. Although we have not reached those levels, we are seeing upward trends similar to market corrections of the past. 
 
