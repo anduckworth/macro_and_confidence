@@ -13,8 +13,8 @@ The one year confidence index illustrates the percent of the population expectin
 
 ![Confidence Indexes](/images/conf.png)
 ![Institutional Greater than Individual](/images/greater.png)
-![Institutional Confidence Trend](/images/ins_trend.png)
-![Individual Confidence trend](/images/ind_trend.png)
+![Institutional Confidence Trend](/images/IndvConfTrend.png)
+![Individual Confidence trend](/images/InstConfTrend.png)
 ![Dow Jones vs Confidence](/images/djia.png)
 
 
