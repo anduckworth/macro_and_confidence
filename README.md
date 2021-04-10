@@ -42,30 +42,17 @@ The one year confidence index illustrates the percent of the population expectin
 ![Unemployment vs Confidence](/images/unemployment.png)
 ![GDP vs Unemployment](/images/gdp.png)
 
-
-  1. In recent years the volatility in macroeconomic indicators associated with market events has increased each cycle. This is evident in the unemployment level and in GDP. We plotted them together to show how the increase in volatility in these indicators coincide with certain market events. When we compared this to the confidence indexes we noticed moves towards lower levels of confidence associated with the periods of volatility in the macroeconomic indicators.
-
-
-## Is there a dislocation between market sentiment and the realiity of the economy?
-
-  1. In our analysis we discovered that the confidence indexes have been in a downtrend since 2002, at times consolidating and moving sideways, but then further moving lower. The confidence indexes are negatively correlated with the DJI. In addition to these relationships with the market, increasing macroeconomic volatility coincides with further moves lower in confidence levels. In summary, we discovered a divergence in confidence levels and market performance, as well as a relationship between macroeconomic volatility and confidence levels. It is difficult to say whether confidence levels impact the market's performance, or whether the market's performance impacts confidence levels, however in the wake of financial events since the early 2000s, along with greater volatility in macroeconomic indicators, we have witnessed an aggregate decline in confidence levels, indicating that fewer people beleive we will see an increase in the DOW 1 year from now, more people believe there is a greater probability for a market crash six months from now, and more people beleieve the market is too high.
-
-
-
+In recent years the volatility in macroeconomic indicators associated with market events has increased each cycle. This is evident in the unemployment level and in GDP. We plotted them together to show how the increase in volatility in these indicators coincide with certain market events. When we compared this to the confidence indexes we noticed moves towards lower levels of confidence associated with the periods of volatility in the macroeconomic indicators.
 
 ## Economic Analysis 
 
-1. Are there relationships with the SP500 and the GDP? 
+1. Are there relationships with the SP500 and the GDP? Berkshire Hathaway has used Corporate Equities / GDP to analyze market conditions to make investment decisions. For the most part, this ratio has been telling in determining when the market is "overvalued." In our analysis, our group had used the SP500 / GDP to make a similar analysis regarding current market condidions. We believe the SP500 is the most representitive indicator os the United States market as a whole. We have currently surpassed levels that we have seen during the Dot.com bubble and Great Recession. This coupled with low institutional confidence should give a negative sentiment indicator for the future. 
 
-  Berkshire Hathaway has used Corporate Equities / GDP to analyze market conditions to make investment decisions. For the most part, this ratio has been telling in determining when the market is "overvalued." In our analysis, our group had used the SP500 / GDP to make a similar analysis regarding current market condidions. We believe the SP500 is the most representitive indicator os the United States market as a whole. We have currently surpassed levels that we have seen during the Dot.com bubble and Great Recession. This coupled with low institutional confidence should give a negative sentiment indicator for the future. 
+2. What relationships are there with the SP500 P/E with the overall economy? Given our analysis, we have seen spikes in the SP500 P/E ratio in 2000, and 2008. Although we have not reached those levels, we are seeing upward trends similar to market corrections of the past. 
 
-2. What relationships are there with the SP500 P/E with the overall economy? 
+3. Does over extention of the SP500 PE ratio indicate a potential correction? The SP500 P/E ratio can provide valuable analysis when determining if a possible market correction is plausable. In our group's analysis we had used the SP500 P/E ratio againt the SP500 / GDP and have found compelling trends. Currently we are on an upward trend similar to the Dot.com bubble upward trend. 
 
-  Given our analysis, we have seen spikes in the SP500 P/E ratio in 2000, and 2008. Although we have not reached those levels, we are seeing upward trends similar to market corrections of the past. 
+## Is there a dislocation between market sentiment and the realiity of the economy?
 
-3. Does over extention of the SP500 PE ratio indicate a potential correction? 
-
-  The SP500 P/E ratio can provide valuable analysis when determining if a possible market correction is plausable. In our group's analysis we had used the SP500 P/E ratio againt the SP500 / GDP and have found compelling trends. Currently we are on an upward trend similar to the Dot.com bubble upward trend. 
-
-
+In our analysis we discovered that the confidence indexes have been in a downtrend since 2002, at times consolidating and moving sideways, but then further moving lower. The confidence indexes are negatively correlated with the DJI. In addition to these relationships with the market, increasing macroeconomic volatility coincides with further moves lower in confidence levels. In summary, we discovered a divergence in confidence levels and market performance, as well as a relationship between macroeconomic volatility and confidence levels. It is difficult to say whether confidence levels impact the market's performance, or whether the market's performance impacts confidence levels, however in the wake of financial events since the early 2000s, along with greater volatility in macroeconomic indicators, we have witnessed an aggregate decline in confidence levels, indicating that fewer people beleive we will see an increase in the DOW 1 year from now, more people believe there is a greater probability for a market crash six months from now, and more people beleieve the market is too high.
 
