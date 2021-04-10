@@ -12,6 +12,11 @@ The one year confidence index illustrates the percent of the population expectin
 ## What is the general confidence level of the market?
 
 ![Confidence Indexes](/images/conf.png)
+![Institutional Greater than Individual](/images/greater.png)
+![Institutional Confidence Trend](/images/ins_trend.png)
+![Individual Confidence trend](/images/ind_trend.png)
+![Dow Jones vs Confidence](/images/djia.png)
+
 
   1. The mean individual confidence level is 76.5 and the mean institutional is 77.6. This tells us that the outlook on the market is generally positive. Over time, the confidence of the stock market for both institutions and individuals has been in a downtrend.
   2. Institutional Investors tend to remain more confident over time with a major crossover showing this reality in 2007. Prior to 2007, individual confidence was consistently greater. Our team speculates that this can potentially be due to individuals having a negative sentiment towards the market after the dot.com bubble and Great Recession. 
@@ -34,7 +39,12 @@ The one year confidence index illustrates the percent of the population expectin
 
 ## What do macroeconomic measures tell us about the market's performance, and how do they compare to confidence levels?
 
+![Unemployment vs Confidence](/images/unemployment.png)
+![GDP vs Unemployment](/images/gdp.png)
+
+
   1. In recent years the volatility in macroeconomic indicators associated with market events has increased each cycle. This is evident in the unemployment level and in GDP. We plotted them together to show how the increase in volatility in these indicators coincide with certain market events. When we compared this to the confidence indexes we noticed moves towards lower levels of confidence associated with the periods of volatility in the macroeconomic indicators.
+
 
 ## Is there a dislocation between market sentiment and the realiity of the economy?
 
