@@ -11,6 +11,8 @@ The one year confidence index illustrates the percent of the population expectin
 
 ## What is the general confidence level of the market?
 
+![Confidence Indexes](/images/conf.png)
+
   1. The mean individual confidence level is 76.5 and the mean institutional is 77.6. This tells us that the outlook on the market is generally positive. Over time, the confidence of the stock market for both institutions and individuals has been in a downtrend.
   2. Institutional Investors tend to remain more confident over time with a major crossover showing this reality in 2007. Prior to 2007, individual confidence was consistently greater. Our team speculates that this can potentially be due to individuals having a negative sentiment towards the market after the dot.com bubble and Great Recession. 
   3. Institutional value confidence has reached the same low levels witnessed in 2000, which indicates a stronger beleif in market prices being high. Individual value confidence is reaching these levels. Both are clearly making lower lows.
