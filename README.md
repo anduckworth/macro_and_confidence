@@ -19,6 +19,8 @@ The one year confidence index illustrates the percent of the population expectin
 
 ## Do confidence levels in the upper quartile and lower quartile indicate a coming market reversal?
 
+![Upper and Lower Quartile](images/bokeh_plot (1).png)
+
   1. While doing our analysis, we found that the upper quartile of confidence data was all concentrated in the years 2001-2006 and the lower quartile of confidence data was all concentrated in the years 2014-2020. The mean confidence level for institutions in the upper quartile was 86.26, the min was 81.11 and the max was 92.52. The mean confidence level for individuals in the upper quartile was 89.38, the min was 83.93 and the max was 95.62. The mean confidence level for institutions in the lower quartile was 69.49, the min was 61.54 and the max was 74.02. The mean confidence level for individuals in the lower quartile was 65.80, the min was 59.75 and the max was 70.71. 
   2. When we compared these confidence levels to the DOW jones, it becomes clear that there is a negative correlation between the DJI and the confidence of institutional and individual investors. This could be due to greater market volatility in recent years, or painful memories of prior market instability. Therefore rather than using the one year confidence index as an indicator for a market reversal, the one year confidence levels better serve to help us understand the effects of historical market performance on individual and instituitonal confidence over time and they reflect overall sentiment of the investor.
 
