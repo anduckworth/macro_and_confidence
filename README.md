@@ -52,6 +52,7 @@ In recent years the volatility in macroeconomic indicators associated with marke
 
 2. What relationships are there with the SP500 P/E with the overall economy? Given our analysis, we have seen spikes in the SP500 P/E ratio in 2000, and 2008. Although we have not reached those levels, we are seeing upward trends similar to market corrections of the past. 
 
+![SP500 PE Ratio](/images/newplot%20(6).png)
 3. Does over extention of the SP500 PE ratio indicate a potential correction? The SP500 P/E ratio can provide valuable analysis when determining if a possible market correction is plausable. In our group's analysis we had used the SP500 P/E ratio againt the SP500 / GDP and have found compelling trends. Currently we are on an upward trend similar to the Dot.com bubble upward trend. 
 
 ## Is there a dislocation between market sentiment and the realiity of the economy?
