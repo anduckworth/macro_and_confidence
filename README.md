@@ -55,6 +55,9 @@ In recent years the volatility in macroeconomic indicators associated with marke
 ![SP500 PE Ratio](/images/newplot%20(6).png)
 3. Does over extention of the SP500 PE ratio indicate a potential correction? The SP500 P/E ratio can provide valuable analysis when determining if a possible market correction is plausable. In our group's analysis we had used the SP500 P/E ratio againt the SP500 / GDP and have found compelling trends. Currently we are on an upward trend similar to the Dot.com bubble upward trend. 
 
+https://github.com/anduckworth/macro_and_confidence/blob/main/images/bokeh_plot%20(5).png
+
+![SP500 PE and SP500/GDP](/images/bokeh_plot%20(5).png)
 ## Is there a dislocation between market sentiment and the realiity of the economy?
 
 In our analysis we discovered that the confidence indexes have been in a downtrend since 2002, at times consolidating and moving sideways, but then further moving lower. The confidence indexes are negatively correlated with the DJI. In addition to these relationships with the market, increasing macroeconomic volatility coincides with further moves lower in confidence levels. In summary, we discovered a divergence in confidence levels and market performance, as well as a relationship between macroeconomic volatility and confidence levels. It is difficult to say whether confidence levels impact the market's performance, or whether the market's performance impacts confidence levels, however in the wake of financial events since the early 2000s, along with greater volatility in macroeconomic indicators, we have witnessed an aggregate decline in confidence levels, indicating that fewer people beleive we will see an increase in the DOW 1 year from now, more people believe there is a greater probability for a market crash six months from now, and more people beleieve the market is too high.
