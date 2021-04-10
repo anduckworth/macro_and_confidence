@@ -43,7 +43,7 @@ The one year confidence index illustrates the percent of the population expectin
 
 1. Are there relationships with the SP500 and the GDP? 
 
-    Berkshire Hathaway has used Corporate Equities / GDP to analyze market conditions to make investment decisions. For the most part, this ratio has been telling in determining when the market is "overvalued." In our analysis, our group had used the SP500 / GDP to make a similar analysis regarding current market condidions. We believe the SP500 is the most representitive indicator os the United States market as a whole. We have currently surpassed levels that we have seen during the Dot.com bubble and Great Recession. This coupled with low institutional confidence should give a negative sentiment indicator for the future. 
+  Berkshire Hathaway has used Corporate Equities / GDP to analyze market conditions to make investment decisions. For the most part, this ratio has been telling in determining when the market is "overvalued." In our analysis, our group had used the SP500 / GDP to make a similar analysis regarding current market condidions. We believe the SP500 is the most representitive indicator os the United States market as a whole. We have currently surpassed levels that we have seen during the Dot.com bubble and Great Recession. This coupled with low institutional confidence should give a negative sentiment indicator for the future. 
 
 2. What relationships are there with the SP500 P/E with the overall economy? 
 
