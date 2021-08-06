@@ -1,5 +1,5 @@
 # Macroeconomy and Confidence 
-
+By George Mihalopoulos, Matt Szoke, and Alex Narvaez-Duckworth
 ## Overview 
 
 Behavioral finance has been a hot topic explored by academia. Does herd mentality impact global markets? Can there be potential warning signs for future corrections? Many of these answers are ambiguous, however we know for certain that no individual can tell the future. Our group has presented our findings to key questions that we have listed below.
